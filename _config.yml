@@ -1,0 +1,8 @@
+jupyterlite:
+  title: "Shading System Analysis"
+  appConfig:
+    disabledExtensions:
+      - "@jupyterlab/codemirror-extension"
+      - "@jupyterlab/cell-toolbar-extension"
+      - "@jupyterlab/celltools-extension"
+      - "@jupyterlab/notebook-extension:tracker"
